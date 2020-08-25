@@ -42,7 +42,6 @@
 **Some cool Unity Projects**🎲🎮
 - [Unity Utilities](https://github.com/felipe-higino/my-unity-utils)
 - [Firebase CRUD](https://github.com/felipe-higino/unity-firebase-crud)
-- [My first Unity game](https://github.com/felipe-higino/first-unity-game)
 - [GMTK Jam 2020 game](https://github.com/Rouem/FervorousWare_GMTK2020)
 
 </td></tr></table>
