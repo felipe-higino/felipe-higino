@@ -2,9 +2,7 @@
 
 👨‍💻*Computer Science Student* 
 <br>
-<br>
 🔥*Web Apps enthusiastic*
-<br>
 <br>
 🎮*Game Development lover*😍
 <br>
