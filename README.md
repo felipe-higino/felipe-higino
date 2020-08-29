@@ -1,10 +1,12 @@
-## I'm Felipe, nice to meet you 👋
+## Thank you to be interested 👋
 
-*Computer Science Student* 👨‍💻
+👨‍💻*Computer Science Student* 
 <br>
-*Web Apps enthusiastic*🔥
 <br>
-*Game Development lover*🎮😍
+🔥*Web Apps enthusiastic*
+<br>
+<br>
+🎮*Game Development lover*😍
 <br>
 
 [GameDev Portfolio](https://www.instagram.com/euplayy/)
