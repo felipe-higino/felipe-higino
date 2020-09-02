@@ -27,10 +27,12 @@
 </td><td valign="top" width="15%">
   
 **Beginner 💩 languages**
-- Go
-- Haskell
 - Rust
 - Elixir
+- Lua
+- Go
+- Haskell
+
 
 </td><td valign="top" width="35%">
 
