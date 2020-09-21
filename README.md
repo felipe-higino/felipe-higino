@@ -13,7 +13,7 @@
 
 **Main ⭐ languages:** 
 - C#
-- JavaScript
+- TypeScript
 - Java
 
 </td><td valign="top" width="10%">
