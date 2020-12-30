@@ -8,6 +8,7 @@
 <br>
 
 [My Resume](https://felipe-higino.github.io/)
+<br>
 [GameDev Portfolio](https://www.instagram.com/euplayy/)
 
 <table><tr><td valign="top" width="10%">
