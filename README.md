@@ -1,9 +1,6 @@
 ## Thank you to be interested 👋
 
 👨‍💻*Computer Science Student* 
-<br>
-🔥*Web Apps enthusiast*
-<br>
 🎮*Game Development lover*😍
 <br>
 
