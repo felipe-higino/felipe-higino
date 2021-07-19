@@ -7,7 +7,6 @@
 
 [My Resume](https://felipe-higino.github.io/)
 <br>
-[GameDev Portfolio](https://www.instagram.com/euplayy/)
 
 <table><tr><td valign="top" width="10%">
 
@@ -36,8 +35,7 @@
 
 </td><td valign="top" width="35%">
 
-**Some cool programming studies/projects**✏️
-- [My Curriculum Vitae](https://felipe-higino.github.io/)
+**Some cool programming studies**✏️
 - [Algorithms studies (lot of languages!)](https://github.com/felipe-higino/algorithms-implementations-register)
 
 </td><td valign="top" width="35%">
