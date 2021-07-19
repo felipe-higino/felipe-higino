@@ -43,7 +43,7 @@
 </td><td valign="top" width="35%">
 
 **Some cool Unity Projects**🎲🎮
-- [Tetris3D] (https://github.com/felipe-higino/Tetris3D)
+- [Tetris3D](https://github.com/felipe-higino/Tetris3D)
 - [Unity Utilities](https://github.com/felipe-higino/my-unity-utils)
 - [Firebase CRUD](https://github.com/felipe-higino/unity-firebase-crud)
 - [GMTK Jam 2020 game](https://github.com/Rouem/FervorousWare_GMTK2020)
