@@ -5,7 +5,7 @@
 🎮*Game Development lover*😍
 <br>
 
-[My Resume](https://felipe-higino.github.io/)
+📋[My Resume](https://felipe-higino.github.io/)
 <br>
 
 <table><tr><td valign="top" width="10%">
