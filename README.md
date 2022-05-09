@@ -42,6 +42,7 @@
 
 **Some cool Unity Projects**🎲🎮
 - [Tetris3D](https://github.com/felipe-higino/Tetris3D)
+- [Online Topdown Shooter](https://github.com/felipe-higino/online-top-down-shooter)
 - [Unity Utilities](https://github.com/felipe-higino/my-unity-utils)
 - [Firebase CRUD](https://github.com/felipe-higino/unity-firebase-crud)
 - [GMTK Jam 2020 game](https://github.com/Rouem/FervorousWare_GMTK2020)
