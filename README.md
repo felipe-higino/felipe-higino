@@ -12,26 +12,25 @@
 
 **Main ⭐ languages:** 
 - C#
-- TypeScript
+- Python
 - Java
 
 </td><td valign="top" width="10%">
   
 **Known 🧠 languages**
-- Prolog
 - C
 - C++
-- Python
+- TypeScript
+- Prolog
 
 </td><td valign="top" width="15%">
   
 **Beginner 💩 languages**
 - Rust
-- Elixir
 - Lua
 - Go
 - Haskell
-
+- Elixir
 
 </td><td valign="top" width="35%">
 
