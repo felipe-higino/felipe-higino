@@ -5,9 +5,6 @@
 🎮*Game Development lover*😍
 <br>
 
-📋[My Resume](https://drive.google.com/drive/folders/1amSCNf9lCP4bVSFpuR0qp5c1sajVVWos?usp=sharing)
-<br>
-
 <table><tr><td valign="top" width="10%">
 
 **Main ⭐ languages:** 
