@@ -5,6 +5,8 @@
 🎮*Game Development lover*😍
 <br>
 
+😎[My GameDev Blog](https://felipe-higino.github.io/)
+
 <table><tr><td valign="top" width="10%">
 
 **Main ⭐ languages:** 
