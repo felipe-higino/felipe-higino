@@ -1,6 +1,6 @@
 ## Thank you to be interested 👋
 
-👨‍💻*Computer Science Student* 
+👨‍💻*Computer Science BSC* 
 <br>
 🎮*Game Development lover*😍
 <br>
